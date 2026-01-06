@@ -56,8 +56,9 @@ Nous avons travaillé ensemble pour définir les entités et associations, crée
 Le dépôt contient les fichiers SQL principaux pour créer, remplir et tester la base de données :  
 
 - Création des tables : [CréationTables.sql](GestionImmobiliereDataBase/CodeSQL/CreationTables.sql)   – contient les instructions SQL pour créer toutes les tables.  
-- Insertion des données : [InsertionDonnées.sql](CodeSQL/InsertionDonnées.sql)  – insère les données initiales dans les tables.  
-- Triggers et fonctions : [Fonctions.sql](CodeSQL/Fonctions.sql)  – contient les triggers et fonctions pour automatiser certaines opérations.  
+- Insertion des données : [InsertionDonnées.sql](GestionImmobiliereDataBase/CodeSQL/Fonctions.sql)  – insère les données initiales dans les tables.  
+- Triggers et fonctions : [Fonctions.sql](GestionImmobiliereDataBase/CodeSQL/InsertionDonnees.sql)  – contient les triggers et fonctions pour automatiser certaines opérations.
+- Tests : [TestsFonctions.sql](GestionImmobiliereDataBase/TestDeFonctions/TestsFonctions.sql) -- [TestsFonctions.pdf](GestionImmobiliereDataBase/TestDeFonctions/TestsFonctions.pdf) - Contient les tests de chacunes des fonctionalités ainsi que le rapport des tests.
 
 ---
 
