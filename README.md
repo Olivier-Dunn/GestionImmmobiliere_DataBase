@@ -55,9 +55,9 @@ Nous avons travaillé ensemble pour définir les entités et associations, crée
 ## Modèle relationnel & scripts
 Le dépôt contient les fichiers SQL principaux pour créer, remplir et tester la base de données :  
 
-- Création des tables : [CréationTables.sql](Code%20SQL/CréationTables.sql)   – contient les instructions SQL pour créer toutes les tables.  
-- Insertion des données : [InsertionDonnées.sql](Code%20SQL/InsertionDonnées.sql)  – insère les données initiales dans les tables.  
-- Triggers et fonctions : [Fonctions.sql](Code%20SQL/Fonctions.sql)  – contient les triggers et fonctions pour automatiser certaines opérations.  
+- Création des tables : [CréationTables.sql](CodeSQL/CréationTables.sql)   – contient les instructions SQL pour créer toutes les tables.  
+- Insertion des données : [InsertionDonnées.sql](CodeSQL/InsertionDonnées.sql)  – insère les données initiales dans les tables.  
+- Triggers et fonctions : [Fonctions.sql](CodeSQL/Fonctions.sql)  – contient les triggers et fonctions pour automatiser certaines opérations.  
 
 ---
 
